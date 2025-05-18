@@ -1,4 +1,4 @@
 
 Nama = Muhammad Zulvi Prawira
 Divisi = Programming
-subdivisi = Machine Learningit 
+subdivisi = Machine Learningit 2
